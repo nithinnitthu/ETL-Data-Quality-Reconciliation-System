@@ -1,0 +1,41 @@
+OrderID,OrderDate,City,Category,Product,Quantity,UnitPrice,Status,SalesAmount
+1001,2026-01-03,Hyderabad,Electronics,Laptop,2,55000,Delivered,110000
+1002,2026-01-04,Bengaluru,Furniture,Chair,4,2500,Delivered,10000
+1003,2026-01-05,Hyderabad,Electronics,Headphones,3,1800,Shipped,5400
+1004,2026-01-06,Chennai,Office Supplies,Notebook,10,80,Delivered,800
+1005,2026-01-07,Pune,Furniture,Desk,1,7500,Cancelled,7500
+1006,2026-01-08,Hyderabad,Office Supplies,Pen,20,25,Delivered,500
+1007,2026-01-09,Bengaluru,Electronics,Monitor,2,12000,Shipped,24000
+1008,2026-01-10,Chennai,Furniture,Cabinet,1,9500,Delivered,9500
+1009,2026-01-11,Pune,Electronics,Keyboard,5,900,Delivered,4500
+1010,2026-01-12,Hyderabad,Furniture,Table,1,6200,Returned,6200
+1011,2026-01-13,Bengaluru,Office Supplies,Printer Paper,8,350,Delivered,2800
+1012,2026-01-14,Chennai,Electronics,Webcam,2,2200,Shipped,4400
+1013,2026-01-15,Pune,Furniture,Shelf,2,3200,Delivered,6400
+1014,2026-01-16,Hyderabad,Electronics,Mouse,6,650,Delivered,3900
+1015,2026-01-17,Bengaluru,Furniture,Sofa,1,22000,Cancelled,22000
+1016,2026-01-18,Chennai,Office Supplies,Marker,12,45,Delivered,540
+1017,2026-01-19,Pune,Electronics,Tablet,2,18000,Shipped,36000
+1018,2026-01-20,Hyderabad,Office Supplies,Stapler,3,180,Delivered,540
+1019,2026-01-21,Bengaluru,Electronics,Speaker,2,3200,Returned,6400
+1020,2026-01-22,Chennai,Furniture,Bookshelf,1,6800,Delivered,6800
+1021,2026-01-23,Hyderabad,Electronics,Laptop,1,55000,Shipped,55000
+1022,2026-01-24,Pune,Office Supplies,Folder,15,35,Delivered,525
+1023,2026-01-25,Bengaluru,Furniture,Desk,2,7500,Delivered,15000
+1024,2026-01-26,Chennai,Electronics,Headphones,4,1800,Delivered,7200
+1025,2026-01-27,Hyderabad,Furniture,Chair,3,2500,Delivered,7500
+1026,2026-01-28,Pune,Electronics,Monitor,1,12000,Shipped,12000
+1027,2026-01-29,Bengaluru,Office Supplies,Notebook,20,80,Delivered,1600
+1028,2026-01-30,Chennai,Furniture,Table,1,6200,Delivered,6200
+1029,2026-01-31,Hyderabad,Electronics,Keyboard,4,900,Returned,3600
+1030,2026-02-01,Pune,Office Supplies,Pen,30,25,Delivered,750
+1031,2026-02-02,Bengaluru,Electronics,Tablet,1,18000,Shipped,18000
+1032,2026-02-03,Chennai,Furniture,Shelf,2,3200,Delivered,6400
+1033,2026-02-04,Hyderabad,Office Supplies,Printer Paper,6,350,Delivered,2100
+1034,2026-02-05,Pune,Furniture,Cabinet,1,9500,Cancelled,9500
+1035,2026-02-06,Bengaluru,Electronics,Webcam,3,2200,Delivered,6600
+1036,2026-02-07,Chennai,Office Supplies,Marker,10,45,Shipped,450
+1037,2026-02-08,Hyderabad,Furniture,Sofa,1,22000,Delivered,22000
+1038,2026-02-09,Pune,Electronics,Speaker,2,3200,Returned,6400
+1039,2026-02-10,Bengaluru,Office Supplies,Stapler,5,180,Delivered,900
+1040,2026-02-11,Chennai,Electronics,Mouse,8,650,Delivered,5200
