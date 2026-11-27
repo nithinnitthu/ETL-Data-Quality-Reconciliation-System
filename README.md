@@ -46,3 +46,4 @@ This is a starter project package, not proof that you have completed dashboard t
 
 <img width="970" height="537" alt="Screenshot 2026-11-27 105743" src="https://github.com/user-attachments/assets/8f6fa134-d587-49bb-819a-7d39bbfcc19f" />
 
+<img width="1022" height="562" alt="Screenshot 2026-11-27 105712" src="https://github.com/user-attachments/assets/812c2d83-1700-44e2-b38b-04ea0d300f69" />
