@@ -35,4 +35,14 @@ Expected: five PASS messages, followed by reference KPI totals and grouped sales
 - A short defect report for any mismatch you find.
 
 ## Resume rule
-This is a starter project package, not proof that you have completed dashboard testing. Add it to your resume only after building the Power BI report and executing the tests yourself. Be precise about which tasks you completed. Do not claim advanced Power BI, DAX, or production testing experience based only on this starter kit.
+This is a starter project package, not proof that you have completed dashboard testing. Add it to your resume only after building the Power BI report and executing the tests yourself. Be precise about which tasks you completed. Do not claim advanced Power BI, DAX, or production testing experience based only on this starter kit.                            
+
+
+
+
+
+
+
+
+<img width="970" height="537" alt="Screenshot 2026-11-27 105743" src="https://github.com/user-attachments/assets/8f6fa134-d587-49bb-819a-7d39bbfcc19f" />
+
